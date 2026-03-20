@@ -33,27 +33,15 @@ Sends notifications such as:
   <li>Heavy rainfall expected</li>
   <li>High temperature alerts</li>
   <li>curfew alert by government </li>
-  <li>Helps riders plan their work schedule efficiently</li>
-  <li>Fraud Detection System</li>
-  <li>Rule-Based Detection</li> 
 </ul>
+Helps riders plan their work schedule efficiently
 
-Identifies of fake report:
+Identifies  fake report:
 <ul>
   <li>Frequent complaints by the same customer</li>
   <li>Multiple complaints within a short time from same location </li>
   <li>GPS and Time Verification</li>
 </ul>
-
-Validates:
-<ul>
-  <li>Rider location</li>
-  <li>Delivery location</li>
-  <li>Delivery time</li>
-  <li>Ensures delivery authenticity before accepting complaints</li>
-  <li>Used to improve fraud detection accuracy</li>
-  </ul>
-
 
 <b>Reputation Recovery Mechanism</b>
 
@@ -66,10 +54,10 @@ If a rider is proven not guilty:
 
 System Workflow:
 <ul>
-  <li>Rider logs weekly working hours</li>
+  <li>Logs weekly working hours of rider </li>
   <li>System monitors weather conditions</li>
-  <li>Compensation is calculated during extreme weather</li>
-  <li>Compensation is calculated or that time of emergency </li>
+  <li>Compensation is calculated during extreme weather or in time emergency </li>
+  
   If a complaint is raised:
   <ul>
     <li>GPS and time are verified</li>
