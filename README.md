@@ -119,8 +119,6 @@ Impact:
   <li>Builds trust in gig economy platforms</li>
 </ul>
 
-P
-
 Contributors:
 <ul>
   <li>Srajal Sahu</li>
