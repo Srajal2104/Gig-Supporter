@@ -51,11 +51,8 @@ Validates:
   <li>Delivery location</li>
   <li>Delivery time</li>
   <li>Ensures delivery authenticity before accepting complaints</li>
-  <li>Increases with successful deliveries</li>
   <li>Used to improve fraud detection accuracy</li>
-  <li>Weather-Aware Fraud Detection</li>
-  <li>Enhances fraud detection using weather conditions</li>
-</ul>
+  </ul>
 
 
 <b>Reputation Recovery Mechanism</b>
