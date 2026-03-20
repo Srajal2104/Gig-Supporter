@@ -88,14 +88,17 @@ Tech Stack:
   <li>Backend: Python (Flask or FastAPI)</li>
   <li>Database: SQL</li>
   <li>APIs: Weather API, Maps/GPS API</li>
-</ul>
  <li>Machine learning models for fraud prediction</li>
   <li>Image-based delivery proof verification</li>
   <li>Real-time analytics dashboard</li>
   <li>Integration with platforms such as Zomato, Swiggy, and Uber</li>
 </ul>
-Advanced Features and Enhancements
-<ul> <li><strong>Machine Learning Models for Fraud Prediction:</strong> <br>Implements supervised learning models such as Logistic Regression or Decision Trees to classify complaints as fraudulent or genuine. The model uses features like complaint frequency, GPS validation, delivery time, and weather conditions to improve accuracy.</li> <li><strong>Image-Based Delivery Proof Verification:</strong> <br>Allows riders to upload delivery images as proof. These images can be verified using basic metadata (timestamp, location) and can be extended with computer vision techniques for automated validation.</li> <li><strong>Real-Time Analytics Dashboard:</strong> <br>Provides insights into rider performance, complaint trends, weather impact, and earnings. Helps both users and administrators make informed decisions.</li> <li><strong>Integration with Gig Platforms:</strong> <br>Designed to be compatible with platforms such as Zomato, Swiggy, and Uber. Enables data synchronization, better scalability, and real-world applicability of the system.</li> </ul>
+Advanced Features and Enhancements:
+<ul> <li><strong>Machine Learning Models for Fraud Prediction:</strong> <br>Implements supervised learning models such as Logistic Regression or Decision Trees to classify complaints as fraudulent or genuine. The model uses features like complaint frequency, GPS validation, delivery time, and weather conditions to improve accuracy.</li>
+  <li><strong>Image-Based Delivery Proof Verification:</strong> <br>Allows riders to upload delivery images as proof. These images can be verified using basic metadata (timestamp, location) and can be extended with computer vision techniques for automated validation.</li>
+  <li><strong>Real-Time Analytics Dashboard:</strong> <br>Provides insights into rider performance, complaint trends, weather impact, and earnings. Helps both users and administrators make informed decisions.</li>
+  <li><strong>Integration with Gig Platforms:</strong> <br>Designed to be compatible with platforms such as Zomato, Swiggy, and Uber. Enables data synchronization, better scalability, and real-world applicability of the system.</li>
+</ul>
 Impact:
 <ul>
   <li>Improves financial stability of gig workers</li>
