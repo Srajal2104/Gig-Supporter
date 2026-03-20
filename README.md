@@ -20,17 +20,14 @@ Objectives
 </ul>
 
 Features
-Weather-Based Insurance
-
-Tracks weekly working hours of riders
-
-Monitors real-time weather conditions
-
-Identifies extreme weather such as rain, heatwaves, and storms
-
-Calculates compensation based on affected working hours
-
-Smart Alerts
+<ul>
+  <li>Weather-Based Insurance</li>
+  <li>Tracks weekly working hours of riders</li>
+  <li>Monitors real-time weather conditions</li>
+  <li>Identifies extreme weather such as rain, heatwaves, and storms</li>
+  <li>Calculates compensation based on affected working hours</li>
+  <li>Smart Alerts</li>
+</ul>
 
 Sends notifications such as:
 
