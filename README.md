@@ -1,16 +1,15 @@
 # Gig-Supporter
-Overview
-
+Overview:
 This project presents a web-based platform designed to support gig workers such as delivery partners and riders by addressing two key challenges:
 <ul>
   <li>Income loss due to extreme weather conditions</li>
   <li>Unfair penalties caused by fraudulent customer complaints</li>
-  <li>Income Loss due to Unplanned curfews, local strikes, sudden market/zone closures </li>
+  <li>Unfair penalties caused by fraudulent customer complaints</li>
 </ul>
 
 The system integrates weather-based compensation with a fraud detection mechanism to ensure fairness, transparency, and financial stability.
 
-Objectives
+Objectives:
 <ul>
   <li>Provide compensation during adverse weather conditions</li>
   <li>Provide compensation during adverse weather conditions</li>
@@ -19,7 +18,7 @@ Objectives
   <li>Improve decision-making through real-time alerts</li>
 </ul>
 
-Features
+Features:
 <ul>
   <li>Weather-Based Insurance</li>
   <li>Tracks weekly working hours of riders</li>
@@ -30,134 +29,119 @@ Features
 </ul>
 
 Sends notifications such as:
-
-Heavy rainfall expected
-
-High temperature alerts
-
-Helps riders plan their work schedule efficiently
-
-Fraud Detection System
-Rule-Based Detection
+<ul>
+  <li>Heavy rainfall expected</li>
+  <li>High temperature alerts</li>
+  <li> Helps riders plan their work schedule efficiently</li>
+  <li>Fraud Detection System</li>
+  <li>Rule-Based Detection</li>
+</ul>
 
 Identifies:
-
-Frequent complaints by the same customer
-
-Multiple complaints within a short time
-
-Instant complaints after delivery
-
-GPS and Time Verification
+<ul>
+  <li>Frequent complaints by the same customer</li>
+  <li>Multiple complaints within a short time</li>
+  <li>Instant complaints after delivery</li>
+  <li>GPS and Time Verification</li>
+</ul>
 
 Validates:
-
-Rider location
-
-Delivery location
-
-Delivery time
-
-Ensures delivery authenticity before accepting complaints
-
-Behavioral Analysis
+<ul>
+  <li>Rider location</li>
+  <li>Delivery location</li>
+  <li>Delivery time</li>
+  <li>Ensures delivery authenticity before accepting complaints</li>
+  <li>Behavioral Analysis</li>
+</ul>
 
 Customer-side:
-
-Repeated complaint patterns
+<ul>
+  <li>Repeated complaint patterns</li>
+</ul>
 
 Rider-side:
-
-Unusual delivery times
-
-High cancellation rates
-
-Trust Score System
-
-Assigns a dynamic trust score to users
+<ul>
+  <li>Unusual delivery times</li>
+  <li>High cancellation rates</li>
+</ul>
 
 Customer:
-
-Decreases with false complaints
+<ul>
+  <li>Decreases with false complaints</li>
+</ul>
 
 Rider:
-
-Increases with successful deliveries
-
-Used to improve fraud detection accuracy
-
-Weather-Aware Fraud Detection
-
-Enhances fraud detection using weather conditions
+<ul>
+  <li>Increases with successful deliveries</li>
+  <li>Used to improve fraud detection accuracy</li>
+  <li>Weather-Aware Fraud Detection</li>
+  <li>Enhances fraud detection using weather conditions</li>
+</ul>
 
 Example:
 If heavy rain is detected and GPS confirms delivery, the complaint is more likely to be fraudulent
 
-Reputation Recovery Mechanism
+<b>Reputation Recovery Mechanism</b>
 
 If a rider is proven not guilty:
+<ul>
+  <li>Rating is restored or improved</li>
+  <li>Compensation is provided</li>
+  <li>Trust score is updated</li>
+</ul>
 
-Rating is restored or improved
+System Workflow:
+<ul>
+  <li>Rider logs weekly working hours</li>
+  <li>System monitors weather conditions</li>
+  <li>Compensation is calculated during extreme weather</li>
+  <li>Compensation is calculated during extreme weather</li>
+  If a complaint is raised:
+  <ul>
+    <li>GPS and time are verified</li>
+    <li>User behavior and trust score are evaluated</li>
+  </ul>
+  Final decision:
+  <ul>
+    <li>Genuine complaint: standard process</li>
+    <li>Fraudulent complaint: penalty and rider compensation</li>
+  </ul>
+</ul>
 
-Compensation is provided
+Tech Stack:
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript or React</li>
+  <li>Backend: Python (Flask or FastAPI)</li>
+  <li>Database: SQL</li>
+  <li>APIs: Weather API, Maps/GPS API</li>
+</ul>
 
-Trust score is updated
+Future Scope:
+<ul>
+  <li>Machine learning models for fraud prediction</li>
+  <li>Image-based delivery proof verification</li>
+  <li>Real-time analytics dashboard</li>
+  <li>Integration with platforms such as Zomato, Swiggy, and Uber</li>
+</ul>
 
-System Workflow
+Impact:
+<ul>
+  <li>Improves financial stability of gig workers</li>
+  <li>Reduces fraudulent activities</li>
+  <li>Ensures fair ratings and compensation</li>
+  <li>Builds trust in gig economy platforms</li>
+</ul>
 
-Rider logs weekly working hours
-
-System monitors weather conditions
-
-Compensation is calculated during extreme weather
-
-If a complaint is raised:
-
-GPS and time are verified
-
-User behavior and trust score are evaluated
-
-Final decision:
-
-Genuine complaint: standard process
-
-Fraudulent complaint: penalty and rider compensation
-
-Tech Stack
-
-Frontend: HTML, CSS, JavaScript or React
-
-Backend: Python (Flask or FastAPI)
-
-Database: SQL
-
-APIs: Weather API, Maps/GPS API
-
-Future Scope
-
-Machine learning models for fraud prediction
-
-Image-based delivery proof verification
-
-Real-time analytics dashboard
-
-Integration with platforms such as Zomato, Swiggy, and Uber
-
-Impact
-
-Improves financial stability of gig workers
-
-Reduces fraudulent activities
-
-Ensures fair ratings and compensation
-
-Builds trust in gig economy platforms
-
-Project Type
-
+Project Type: 
 This is a student project developed for academic learning and problem-solving in real-world scenarios.
 
-Contribution
+Contribution:
+<ul>
+  <li>Srajal Sahu</li>
+  <li>Srishti Pandey</li>
+  <li>Shubhi Agarwal</li>
+  <li>Satvik Singh</li>
+</ul>
 
 Contributions are welcome.
 You can fork the repository and submit pull requests.
