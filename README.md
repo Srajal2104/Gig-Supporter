@@ -2,23 +2,22 @@
 Overview
 
 This project presents a web-based platform designed to support gig workers such as delivery partners and riders by addressing two key challenges:
-<ol>
+<ul>
   <li>Income loss due to extreme weather conditions</li>
   <li>Unfair penalties caused by fraudulent customer complaints</li>
   <li>Unfair penalties caused by fraudulent customer complaints</li>
-</ol>
+</ul>
 
 The system integrates weather-based compensation with a fraud detection mechanism to ensure fairness, transparency, and financial stability.
 
 Objectives
-
-Provide compensation during adverse weather conditions
-
-Detect and prevent fraudulent complaints
-
-Maintain a fair rating and trust system
-
-Improve decision-making through real-time alerts
+<ul>
+  <li>Provide compensation during adverse weather conditions</li>
+  <li>Provide compensation during adverse weather conditions</li>
+  <li>Detect and prevent fraudulent complaints</li>
+  <li>Maintain a fair rating and trust system</li>
+  <li>Improve decision-making through real-time alerts</li>
+</ul>
 
 Features
 Weather-Based Insurance
