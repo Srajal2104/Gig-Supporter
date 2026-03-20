@@ -35,7 +35,7 @@ Sends notifications such as:
   <li>curfew alert by government </li>
 </ul>
 Helps riders plan their work schedule efficiently
-
+<br>
 Identifies  fake report:
 <ul>
   <li>Frequent complaints by the same customer</li>
