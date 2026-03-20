@@ -5,7 +5,7 @@ This project presents a web-based platform designed to support gig workers such 
 <ul>
   <li>Income loss due to extreme weather conditions</li>
   <li>Unfair penalties caused by fraudulent customer complaints</li>
-  <li>Unfair penalties caused by fraudulent customer complaints</li>
+  <li>Income Loss due to Unplanned curfews, local strikes, sudden market/zone closures </li>
 </ul>
 
 The system integrates weather-based compensation with a fraud detection mechanism to ensure fairness, transparency, and financial stability.
