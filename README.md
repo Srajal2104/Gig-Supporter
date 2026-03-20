@@ -2,10 +2,11 @@
 Overview
 
 This project presents a web-based platform designed to support gig workers such as delivery partners and riders by addressing two key challenges:
-
-Income loss due to extreme weather conditions
-
-Unfair penalties caused by fraudulent customer complaints
+<ol>
+  <li>Income loss due to extreme weather conditions</li>
+  <li>Unfair penalties caused by fraudulent customer complaints</li>
+  <li>Unfair penalties caused by fraudulent customer complaints</li>
+</ol>
 
 The system integrates weather-based compensation with a fraud detection mechanism to ensure fairness, transparency, and financial stability.
 
